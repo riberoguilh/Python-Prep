@@ -14,6 +14,13 @@ print(a)
 b = 15
 print (b)
 
+c = 22
+print (c)
+
+d = 24
+print (d)
+
+
 
 
 # 2) Imprimir el tipo de dato de la constante 8.5
